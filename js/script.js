@@ -1,3 +1,7 @@
+
+
+/* 
+es. 1 
 //Prendiamo il nostro puntatore
 const element = document.getElementById('target');
 const result = document.querySelector('.result')
@@ -30,3 +34,4 @@ element.addEventListener('click', function () {
     result.innerText = random;
     winnerIs.innerText = message;
 })
+ */
